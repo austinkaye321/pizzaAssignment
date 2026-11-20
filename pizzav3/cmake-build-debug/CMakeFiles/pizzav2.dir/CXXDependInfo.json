@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3",
+	"dir-top-bld" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3/cmake-build-debug",
+	"dir-top-src" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3/cmake-build-debug/CMakeFiles/pizzav2.dir",
+	"sources" : 
+	{
+		"CMakeFiles/pizzav2.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3/main.cpp"
+		},
+		"CMakeFiles/pizzav2.dir/pizzaFunctions.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/AudreyKCr28/CLionProjects/pizzav3/pizzaFunctions.cpp"
+		}
+	}
+}
