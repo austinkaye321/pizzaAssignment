@@ -1,0 +1,3 @@
+C:/Users/AudreyKCr28/CLionProjects/pizzav1/cmake-build-debug/CMakeFiles/pizzav1.dir
+C:/Users/AudreyKCr28/CLionProjects/pizzav1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AudreyKCr28/CLionProjects/pizzav1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
